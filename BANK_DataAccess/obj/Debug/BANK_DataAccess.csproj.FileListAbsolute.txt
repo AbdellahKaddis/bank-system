@@ -1,0 +1,6 @@
+C:\Users\Electronic Store\source\repos\BANK_DataAccess\bin\Debug\BANK_DataAccess.dll
+C:\Users\Electronic Store\source\repos\BANK_DataAccess\bin\Debug\BANK_DataAccess.pdb
+C:\Users\Electronic Store\source\repos\BANK_DataAccess\obj\Debug\BANK_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Electronic Store\source\repos\BANK_DataAccess\obj\Debug\BANK_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Electronic Store\source\repos\BANK_DataAccess\obj\Debug\BANK_DataAccess.dll
+C:\Users\Electronic Store\source\repos\BANK_DataAccess\obj\Debug\BANK_DataAccess.pdb

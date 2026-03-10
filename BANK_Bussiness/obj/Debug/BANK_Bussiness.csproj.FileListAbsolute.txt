@@ -1,0 +1,9 @@
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\bin\Debug\BANK_Bussiness.dll
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\bin\Debug\BANK_Bussiness.pdb
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\bin\Debug\BANK_DataAccess.dll
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\bin\Debug\BANK_DataAccess.pdb
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\obj\Debug\BANK_Bussiness.csproj.AssemblyReference.cache
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\obj\Debug\BANK_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\obj\Debug\BANK_Bussiness.csproj.CopyComplete
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\obj\Debug\BANK_Bussiness.dll
+C:\Users\Electronic Store\source\repos\BANK_Bussiness\obj\Debug\BANK_Bussiness.pdb
